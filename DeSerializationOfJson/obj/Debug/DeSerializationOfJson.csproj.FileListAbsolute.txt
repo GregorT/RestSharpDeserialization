@@ -1,0 +1,11 @@
+E:\Norveska Firma - Testi\Task 2\DeSerializationOfJson\DeSerializationOfJson\bin\Debug\DeSerializationOfJson.exe.config
+E:\Norveska Firma - Testi\Task 2\DeSerializationOfJson\DeSerializationOfJson\bin\Debug\DeSerializationOfJson.exe
+E:\Norveska Firma - Testi\Task 2\DeSerializationOfJson\DeSerializationOfJson\bin\Debug\DeSerializationOfJson.pdb
+E:\Norveska Firma - Testi\Task 2\DeSerializationOfJson\DeSerializationOfJson\bin\Debug\RestSharp.dll
+E:\Norveska Firma - Testi\Task 2\DeSerializationOfJson\DeSerializationOfJson\bin\Debug\RestSharp.xml
+E:\Norveska Firma - Testi\Task 2\DeSerializationOfJson\DeSerializationOfJson\obj\Debug\DeSerializationOfJson.csprojResolveAssemblyReference.cache
+E:\Norveska Firma - Testi\Task 2\DeSerializationOfJson\DeSerializationOfJson\obj\Debug\DeSerializationOfJson.exe
+E:\Norveska Firma - Testi\Task 2\DeSerializationOfJson\DeSerializationOfJson\obj\Debug\DeSerializationOfJson.pdb
+E:\Norveska Firma - Testi\Task 3\DeSerializationOfJson\DeSerializationOfJson\bin\Debug\DeSerializationOfJson.exe.config
+E:\Norveska Firma - Testi\Task 3\DeSerializationOfJson\DeSerializationOfJson\obj\Debug\DeSerializationOfJson.exe
+E:\Norveska Firma - Testi\Task 3\DeSerializationOfJson\DeSerializationOfJson\obj\Debug\DeSerializationOfJson.pdb
